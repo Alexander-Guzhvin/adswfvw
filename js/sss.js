@@ -8341,7 +8341,7 @@ var _slice = Array.prototype.slice,
                 },
             }),
             D.on("click", function () {
-                D.attr("href", "mailto:alexxguzhvin@gmail.com?subject=Request ID: " + getCookie("_ga").split(".").slice(2).join("."));
+                D.attr("href", "mailto:alexxguzhvin@gmail.com" + getCookie("_ga").split(".").slice(2).join("."));
             }),
             B.addClass("loader_hide"),
             setTimeout(function () {
