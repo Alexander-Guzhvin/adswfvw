@@ -1,0 +1,212 @@
+Uri: https://adv.ru/
+File Name: C:\Downloaded Web Sites\adv.ru\index.htm
+Content Type: text/html
+
+Uri: https://adv.ru/css/main.css?1680270878726
+File Name: C:\Downloaded Web Sites\adv.ru\css\main.css
+Content Type: text/css
+
+Uri: https://adv.ru/fonts/subset-Gilroy-ExtraBold.eot
+File Name: C:\Downloaded Web Sites\adv.ru\fonts\subset-Gilroy-ExtraBold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://adv.ru/fonts/subset-Gilroy-ExtraBold.eot?
+File Name: C:\Downloaded Web Sites\adv.ru\fonts\subset-Gilroy-ExtraBold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://adv.ru/fonts/subset-ProximaNova-Bold.eot
+File Name: C:\Downloaded Web Sites\adv.ru\fonts\subset-ProximaNova-Bold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://adv.ru/fonts/subset-ProximaNova-Bold.eot?
+File Name: C:\Downloaded Web Sites\adv.ru\fonts\subset-ProximaNova-Bold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://adv.ru/fonts/subset-ProximaNova-Regular.eot
+File Name: C:\Downloaded Web Sites\adv.ru\fonts\subset-ProximaNova-Regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://adv.ru/fonts/subset-ProximaNova-Regular.eot?
+File Name: C:\Downloaded Web Sites\adv.ru\fonts\subset-ProximaNova-Regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://adv.ru/fonts/subset-ProximaNova-Semibold.eot
+File Name: C:\Downloaded Web Sites\adv.ru\fonts\subset-ProximaNova-Semibold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://adv.ru/fonts/subset-ProximaNova-Semibold.eot?
+File Name: C:\Downloaded Web Sites\adv.ru\fonts\subset-ProximaNova-Semibold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://adv.ru/images/bg-expertise4.png
+File Name: C:\Downloaded Web Sites\adv.ru\images\bg-expertise4.png
+Content Type: image/png
+
+Uri: https://adv.ru/images/bg-expertise4_tablet.png
+File Name: C:\Downloaded Web Sites\adv.ru\images\bg-expertise4_tablet.png
+Content Type: image/png
+
+Uri: https://adv.ru/images/bg-fifth-section.jpg
+File Name: C:\Downloaded Web Sites\adv.ru\images\bg-fifth-section.jpg
+Content Type: image/jpeg
+
+Uri: https://adv.ru/images/bg-first-section.jpg
+File Name: C:\Downloaded Web Sites\adv.ru\images\bg-first-section.jpg
+Content Type: image/jpeg
+
+Uri: https://adv.ru/images/bg-fourth-section.png
+File Name: C:\Downloaded Web Sites\adv.ru\images\bg-fourth-section.png
+Content Type: image/png
+
+Uri: https://adv.ru/images/bg-loader.jpg
+File Name: C:\Downloaded Web Sites\adv.ru\images\bg-loader.jpg
+Content Type: image/jpeg
+
+Uri: https://adv.ru/images/bg-third-section.jpg
+File Name: C:\Downloaded Web Sites\adv.ru\images\bg-third-section.jpg
+Content Type: image/jpeg
+
+Uri: https://adv.ru/images/certificate-bitrix.png
+File Name: C:\Downloaded Web Sites\adv.ru\images\certificate-bitrix.png
+Content Type: image/png
+
+Uri: https://adv.ru/images/certificate-bitrix@2.png
+File Name: C:\Downloaded Web Sites\adv.ru\images\certificate-bitrix@2.png
+Content Type: image/png
+
+Uri: https://adv.ru/images/certificate-microsoft.png
+File Name: C:\Downloaded Web Sites\adv.ru\images\certificate-microsoft.png
+Content Type: image/png
+
+Uri: https://adv.ru/images/certificate-microsoft@2.png
+File Name: C:\Downloaded Web Sites\adv.ru\images\certificate-microsoft@2.png
+Content Type: image/png
+
+Uri: https://adv.ru/images/check.png
+File Name: C:\Downloaded Web Sites\adv.ru\images\check.png
+Content Type: image/png
+
+Uri: https://adv.ru/images/client-logo-01.png?v5
+File Name: C:\Downloaded Web Sites\adv.ru\images\client-logo-01.png
+Content Type: image/png
+
+Uri: https://adv.ru/images/client-logo-01@2.png?v5
+File Name: C:\Downloaded Web Sites\adv.ru\images\client-logo-01@2.png
+Content Type: image/png
+
+Uri: https://adv.ru/images/client-logo-04.png?v5
+File Name: C:\Downloaded Web Sites\adv.ru\images\client-logo-04.png
+Content Type: image/png
+
+Uri: https://adv.ru/images/client-logo-04@2.png?v5
+File Name: C:\Downloaded Web Sites\adv.ru\images\client-logo-04@2.png
+Content Type: image/png
+
+Uri: https://adv.ru/images/client-logo-07.png?v5
+File Name: C:\Downloaded Web Sites\adv.ru\images\client-logo-07.png
+Content Type: image/png
+
+Uri: https://adv.ru/images/client-logo-07@2.png?v5
+File Name: C:\Downloaded Web Sites\adv.ru\images\client-logo-07@2.png
+Content Type: image/png
+
+Uri: https://adv.ru/images/client-logo-08.png?v5
+File Name: C:\Downloaded Web Sites\adv.ru\images\client-logo-08.png
+Content Type: image/png
+
+Uri: https://adv.ru/images/client-logo-08@2.png?v5
+File Name: C:\Downloaded Web Sites\adv.ru\images\client-logo-08@2.png
+Content Type: image/png
+
+Uri: https://adv.ru/images/client-logo-12.png?v5
+File Name: C:\Downloaded Web Sites\adv.ru\images\client-logo-12.png
+Content Type: image/png
+
+Uri: https://adv.ru/images/client-logo-12@2.png?v5
+File Name: C:\Downloaded Web Sites\adv.ru\images\client-logo-12@2.png
+Content Type: image/png
+
+Uri: https://adv.ru/images/client-logo-14.png?v5
+File Name: C:\Downloaded Web Sites\adv.ru\images\client-logo-14.png
+Content Type: image/png
+
+Uri: https://adv.ru/images/client-logo-14@2.png?v5
+File Name: C:\Downloaded Web Sites\adv.ru\images\client-logo-14@2.png
+Content Type: image/png
+
+Uri: https://adv.ru/images/cookies-check.svg
+File Name: C:\Downloaded Web Sites\adv.ru\images\cookies-check.svg
+Content Type: image/svg+xml
+
+Uri: https://adv.ru/images/cube/l1.svg
+File Name: C:\Downloaded Web Sites\adv.ru\images\cube\l1.svg
+Content Type: image/svg+xml
+
+Uri: https://adv.ru/images/cube/l2.svg
+File Name: C:\Downloaded Web Sites\adv.ru\images\cube\l2.svg
+Content Type: image/svg+xml
+
+Uri: https://adv.ru/images/cube/l3.svg
+File Name: C:\Downloaded Web Sites\adv.ru\images\cube\l3.svg
+Content Type: image/svg+xml
+
+Uri: https://adv.ru/images/cube/l4.svg
+File Name: C:\Downloaded Web Sites\adv.ru\images\cube\l4.svg
+Content Type: image/svg+xml
+
+Uri: https://adv.ru/images/cube/l5.svg
+File Name: C:\Downloaded Web Sites\adv.ru\images\cube\l5.svg
+Content Type: image/svg+xml
+
+Uri: https://adv.ru/images/cube/l6.svg
+File Name: C:\Downloaded Web Sites\adv.ru\images\cube\l6.svg
+Content Type: image/svg+xml
+
+Uri: https://adv.ru/images/favicon.ico
+File Name: C:\Downloaded Web Sites\adv.ru\images\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://adv.ru/images/logo_mars.svg?v5
+File Name: C:\Downloaded Web Sites\adv.ru\images\logo_mars.svg
+Content Type: image/svg+xml
+
+Uri: https://adv.ru/images/logo_mc.svg?v5
+File Name: C:\Downloaded Web Sites\adv.ru\images\logo_mc.svg
+Content Type: image/svg+xml
+
+Uri: https://adv.ru/images/logo_mercedes.svg?v5
+File Name: C:\Downloaded Web Sites\adv.ru\images\logo_mercedes.svg
+Content Type: image/svg+xml
+
+Uri: https://adv.ru/images/logo_zepter.svg?v5
+File Name: C:\Downloaded Web Sites\adv.ru\images\logo_zepter.svg
+Content Type: image/svg+xml
+
+Uri: https://adv.ru/images/pdf/Politika-konfidencialnosti.pdf
+File Name: C:\Downloaded Web Sites\adv.ru\images\pdf\Politika-konfidencialnosti.pdf
+Content Type: application/pdf
+
+Uri: https://adv.ru/images/pdf/Politika-v-otnoshenii-fajlov-cookie.pdf
+File Name: C:\Downloaded Web Sites\adv.ru\images\pdf\Politika-v-otnoshenii-fajlov-cookie.pdf
+Content Type: application/pdf
+
+Uri: https://adv.ru/images/pdf/Soglasie-na-obrabotku-personalnyh-dannyh.pdf
+File Name: C:\Downloaded Web Sites\adv.ru\images\pdf\Soglasie-na-obrabotku-personalnyh-dannyh.pdf
+Content Type: application/pdf
+
+Uri: https://adv.ru/images/social.png
+File Name: C:\Downloaded Web Sites\adv.ru\images\social.png
+Content Type: image/png
+
+Uri: https://adv.ru/images/tsum.png
+File Name: C:\Downloaded Web Sites\adv.ru\images\tsum.png
+Content Type: image/png
+
+Uri: https://adv.ru/images/vsk.png
+File Name: C:\Downloaded Web Sites\adv.ru\images\vsk.png
+Content Type: image/png
+
+Uri: https://adv.ru/js/main.js?1680270878726
+File Name: C:\Downloaded Web Sites\adv.ru\js\main.js
+Content Type: application/javascript
+
